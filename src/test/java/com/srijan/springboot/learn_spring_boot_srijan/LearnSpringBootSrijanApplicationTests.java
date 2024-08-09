@@ -10,6 +10,7 @@ class LearnSpringBootSrijanApplicationTests {
 	void contextLoads() {
 		//now
 		//here
+		//http
 	}
 
 }
